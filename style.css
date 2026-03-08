@@ -177,9 +177,9 @@ font-weight:bold;
 flex-direction:column;
 position:absolute;
 top:70px;
-right:20px;
+right:0;
 background:#111;
-width:200px;
+width:160px;
 padding:20px;
 }
 
@@ -188,5 +188,6 @@ margin:10px 0;
 }
 
 }
+
 
 
